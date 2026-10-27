@@ -67,8 +67,8 @@
     "title": "Dibuixar el diagrama definitiu de la xarxa",
     "fase": "F2 · Disseny",
     "owner": "Jugraj",
-    "status": "pendent",
-    "pos": 10,
+    "status": "curs",
+    "pos": 20,
     "note": "draw.io; lliurament de la fase 2"
   },
   {
@@ -85,8 +85,8 @@
     "title": "Crear el repositori del projecte",
     "fase": "F3 · Entorn virtual",
     "owner": "Federico",
-    "status": "pendent",
-    "pos": 30,
+    "status": "curs",
+    "pos": 10,
     "note": "Git i GitHub"
   },
   {
